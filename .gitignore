@@ -1,0 +1,6 @@
+# Modrinth Modpacks
+*.mrpack
+
+# Generated project lists
+modrinth_project_list.md
+packwiz_project_list.md
